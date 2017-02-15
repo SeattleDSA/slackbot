@@ -15,7 +15,7 @@ let bot = controller.spawn({
 }).startRTM();
 
 controller.on('team_join', (bot, message) => {
-  bot.reply(message, require('mesages/help'));
+  bot.reply(message, require('./mesages/help'));
 });
 
 controller.hears(['help'], 'direct_message', (bot, message) => {
