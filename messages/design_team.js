@@ -14,7 +14,7 @@ module.exports = {
     {
       "title": "SDSA_Design_Team_Onboarding.zip",
       "title_link": "https://seattledsa.org/wp-content/uploads/2017/02/SDSA_Design_Team_Onboarding.zip",
-      "text": "Start here."
+      "text": "Download this onboarding archive and checkout the README to get started."
     }
   ]
 };
