@@ -3,7 +3,7 @@ if (!process.env.SLACK_API_TOKEN) {
   process.exit(1);
 }
 
-const Botkit = require('Botkit');
+const Botkit = require('botkit');
 const channelHelp = require('./lib/channelHelp');
 
 let controller = Botkit.slackbot({
