@@ -23,4 +23,4 @@ controller.hears(['help'], 'direct_message', (bot, message) => {
 });
 
 controller.on('user_channel_join', channelHelp);
-controller.hears(['help'], 'direct_mention,mention', channelHelp);
+controller.hears(['help'], 'direct_mention,mention,message_received', channelHelp);
