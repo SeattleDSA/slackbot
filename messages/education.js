@@ -5,7 +5,7 @@ module.exports = {
   attachments: [
     {
       "title": "Welcome to the #education channel!",
-      "text": "Talk organize reading groups, presentations, and any other ways of increasing our collective knowledge of the world.",
+      "text": "Where we talk about organizing reading groups, presentations, and any other ways of increasing our collective knowledge of the world.",
       "mrkdwn_in": ["text"],
       "color": "#ff0000",
       "footer": "Seattle DSA Slackbot",
