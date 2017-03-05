@@ -5,7 +5,7 @@ module.exports = {
   attachments: [
     {
       "title": "Welcome to the #design_team channel!",
-      "text": "Print, digial all of the above. The #design_team channel is for making that happen.",
+      "text": "Print, digital — all of the above. The #design_team channel is for making that happen.",
       "mrkdwn_in": ["text"],
       "color": "#ff0000",
       "footer": "Seattle DSA Slackbot",
