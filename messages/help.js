@@ -17,16 +17,16 @@ module.exports = {
       "text": "For all those interested in planning and talking about direct action."
     },
     {
+      "title": "#community_service",
+      "text": "Community outreach, service projects, donations, and drives."
+    },
+    {
       "title": "#bookclub, #education, #communications",
       "text": "Big reader? Writer? History buff? These channels might be for you."
     },
     {
       "title": "#design_team",
       "text": "The revolution needs to look good."
-    },
-    {
-      "title": "#culture",
-      "text": "Lets build a cultural movement together."
     },
     {
       "title": "#tech",
