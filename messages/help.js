@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       "title": "Our Current Campaigns",
-      "text": "Join #public_bank, #housing_for_all and #single-payer to get started with our current campaigns."
+      "text": "Join #public_bank, #housing_for_all and #single_payer to get started with our current campaigns."
     },
     {
       "title": "#open_discussion",
