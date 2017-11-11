@@ -20,12 +20,12 @@ module.exports = {
       "mrkdwn_in": ["text"]      
     },
     {
-      "title": "#dsa_business",
-      "text": "Local chapter business and discussion."
-    },
-    {
       "title": "Our Current Campaigns",
       "text": "Join #public_bank, #housing_for_all and #single_payer to get started with our current campaigns."
+    },
+    {
+      "title": "#dsa_business",
+      "text": "Local chapter business and discussion."
     },
     {
       "title": "#open_discussion",
