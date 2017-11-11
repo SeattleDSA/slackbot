@@ -13,6 +13,25 @@ module.exports = {
       "footer_icon": "https://pbs.twimg.com/profile_images/809817207358095360/SZTlT4d6_400x400.jpg"
     },
     {
+      "title": "Seattle DSA Slack Code of Conduct",
+      "title_link": "https://docs.google.com/document/d/1ybaldGp-EJ9ehhTe6-6mar5ifolj1nISpwhdb-dIwOQ/edit?usp=sharing",
+      "color": "#ff0000",
+      "text": "Please review the Seattle DSA Slack Code of Conduct. *All members are expected to familiarize themselves before participating in discussions.*",
+      "mrkdwn_in": ["text"]      
+    },
+    {
+      "title": "#dsa_business",
+      "text": "Local chapter business and discussion."
+    },
+    {
+      "title": "#open_discussion",
+      "text": "Links, thoughts, anything socialism!"
+    },
+    {
+      "title": "#events",
+      "text": "Bulletin board of events going on."
+    },    
+    {
       "title": "#activism",
       "text": "For all those interested in planning and talking about direct action."
     },
@@ -23,14 +42,6 @@ module.exports = {
     {
       "title": "#bookclub, #education, #communications",
       "text": "Big reader? Writer? History buff? These channels might be for you."
-    },
-    {
-      "title": "#design_team",
-      "text": "The revolution needs to look good."
-    },
-    {
-      "title": "#tech",
-      "text": "Automating our way to luxury socialism. Projects like this bot are open source and always looking for improvements."
     }
   ]
 };
